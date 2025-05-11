@@ -1,0 +1,9 @@
+STRING:
+    non-primitive
+    immutable
+    new memory space will be creatred , data wont we overwrittern.
+STRING BUILDER:
+    mutable
+    no new memory space is creatred
+    faster
+    not thread safe

@@ -1,0 +1,6 @@
+Abstract class
+INTERFACE
+    to achive multiple inheritance
+    only abstract method
+    can use concerte method using default and static
+    

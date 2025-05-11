@@ -1,0 +1,10 @@
+Hashmap:
+    Replace the array as it has some disadvantages.
+    Time complexity of array to add or remove a element is O(N).
+    Reduction.(Cannot construct orginal input from the reduced output).
+    MAP:
+        Key value.
+        Associative array.(An array with non numeric index values).
+    The key value will be hashed and stored in the hash table.If the key is same then the value is
+    stored as a linked list , when the linked list exceds 8 a tree is created.
+    Index in Hashmap is called buckets.

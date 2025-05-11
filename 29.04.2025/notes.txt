@@ -1,0 +1,7 @@
+REcursion:
+    Direct
+    Indirect
+    Head
+    Tail
+    Tree
+    Nested
